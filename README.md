@@ -1,5 +1,18 @@
 ## Few-Shot Medical Image Segmentation via Dual-Stream Feature  Extractor and Detail-Enhanced Prototype Transformer
-
+<p align="center">
+    <a href="https://github.com/CQNU-ZhangLab/DFDT/blob/main/LICENSE">
+        <img alt="license" src="https://img.shields.io/badge/license-AGPL--3.0-blue">
+    </a>
+    <a href="https://github.com/CQNU-ZhangLab/DFDT/pulls">
+        <img alt="prs" src="https://img.shields.io/github/issues-pr/CQNU-ZhangLab/DFDT?style=rounded&color=red&label=PRs">
+    </a>
+    <a href="https://github.com/CQNU-ZhangLab/DFDT/issues">
+        <img alt="issues" src="https://img.shields.io/github/issues/CQNU-ZhangLab/DFDT?color=olive&style=rounded">
+    </a>
+    <a href="https://github.com/CQNU-ZhangLab/DFDT">
+        <img alt="stars" src="https://img.shields.io/github/stars/CQNU-ZhangLab/DFDT?kill_cache=1">
+    </a>
+</p>
 
 we propose an innovative dual-stream prototype optimization framework, the Dual-stream Feature Extractor and Detail-enhancing prototype Transformer (DFDT).
 **NOTE: We are actively updating this repository**
@@ -77,5 +90,6 @@ Run `test.py`
 
 ### Acknowledgement
 This code is based on [SSL-ALPNet](https://arxiv.org/abs/2007.09886v2) (ECCV'20) by [Ouyang et al.](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation.git)
+
 
 
