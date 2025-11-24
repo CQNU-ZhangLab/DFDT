@@ -4,6 +4,12 @@
 we propose an innovative dual-stream prototype optimization framework, the Dual-stream Feature Extractor and Detail-enhancing prototype Transformer (DFDT).
 **NOTE: We are actively updating this repository**
 
+<p align="center">
+  <img src="result.png" width=90%> <br>
+  
+</p>
+
+
 If you find this code base useful, please cite our paper. Thanks!
 
 
@@ -71,4 +77,5 @@ Run `test.py`
 
 ### Acknowledgement
 This code is based on [SSL-ALPNet](https://arxiv.org/abs/2007.09886v2) (ECCV'20) by [Ouyang et al.](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation.git)
+
 
