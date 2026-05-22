@@ -18,7 +18,7 @@ we propose an innovative dual-stream prototype optimization framework, the Dual-
 **NOTE: We are actively updating this repository**
 
 <p align="center">
-  <img src="result.png" width=90%> <br>
+  <!-- <img src="result.png" width=90%> <br> -->
   
 </p>
 
